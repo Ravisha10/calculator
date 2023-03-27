@@ -1,6 +1,7 @@
 /* Using CSS for designing and coloring */
 
-*, *::before, *::after {
+*, *::before, *::after 
+  {
     box-sizing: border-box;
     font-family: Rockwell Extra Bold, sans-serif;
     font-weight: dark;
