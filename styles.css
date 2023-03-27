@@ -43,7 +43,8 @@
     grid-column: span 2;
   }
   
-  .output {
+  .output 
+  {
     grid-column: 1 / -1;
     background: rgba(32, 30, 30, 0.699);
     display: flex;
